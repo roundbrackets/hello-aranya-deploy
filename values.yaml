@@ -4,7 +4,7 @@ image:
   pullPolicy: IfNotPresent
 
 name: hello-aranya
-namespace: hello-aranya-clusterdos
+namespace: clusterdos-hello-aranya
 
 port: 80 
 nodePort: 80080 
