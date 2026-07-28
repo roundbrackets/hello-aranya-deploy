@@ -7,4 +7,4 @@ name: hello-aranya
 namespace: clusterdos-hello-aranya
 
 port: 80 
-nodePort: 80080 
+nodePort: 8087 
